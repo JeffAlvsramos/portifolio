@@ -139,6 +139,14 @@ img {
         padding: 5%;
     }
 
+    .apresentacao_links {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 32px;
+    } 
+
     .apresentacao_conteudo {
         width: auto;
     }
